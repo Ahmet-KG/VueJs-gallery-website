@@ -1,4 +1,4 @@
-# youtube-test
+# VueJs-gallery-website
 
 ## Project setup
 ```
