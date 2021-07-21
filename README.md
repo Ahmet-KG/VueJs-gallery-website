@@ -1,3 +1,6 @@
+
+Live link is here => https://gallery-website.netlify.app/
+
 # VueJs-gallery-website
 
 ## Project setup
